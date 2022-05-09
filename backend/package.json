@@ -1,0 +1,16 @@
+{
+    "name": "biblioteca",
+    "version": "1.0.0",
+    "description": "",
+    "author": "Maria Ordoñez <maria0280262@gmail.com>",
+    "license": "MIT",
+    "main": "biblioteca.js",
+    "keywords": [
+      "nodejs",
+      "bootstrap",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
